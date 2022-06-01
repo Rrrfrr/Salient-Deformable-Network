@@ -1,0 +1,2 @@
+1. results_abdmon_lever_mse文件夹用于保存半监督显著性网络的输出。
+2. logs文件夹用于保存配准网络的输出。
